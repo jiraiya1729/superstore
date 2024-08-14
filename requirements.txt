@@ -1,0 +1,11 @@
+pandas
+mlflow == 2.15.1
+numpy
+scikit-learn
+python-box==6.0.2
+pyYAML
+tqdm
+
+types - pyYAML
+Flask
+Flask-CORS
